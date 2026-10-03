@@ -1,0 +1,11 @@
+Test Case 1:
+Verify valid user login.
+
+Expected Result:
+User should successfully login.
+
+Test Case 2:
+Verify invalid login.
+
+Expected Result:
+Error message should be displayed.

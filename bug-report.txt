@@ -1,0 +1,11 @@
+Bug Title:
+Invalid login error message is not displayed.
+
+Severity:
+Medium
+
+Expected Result:
+Error message should be displayed for invalid credentials.
+
+Actual Result:
+User remains on the login page without an error message.
